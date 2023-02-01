@@ -8,7 +8,7 @@ export interface CardHocProps {
   children: React.ReactElement;
 }
 export const CardHoc: React.FC<CardHocProps> = ({ children }: CardHocProps) => {
-  return <div className="card-body"> {children}</div>;
+  return <div className="card-field"> {children}</div>;
 };
 export const Card: React.FC<CardProps> = ({ user }: CardProps) => {
   const { fullName, address, city, country, phoneNumber, email } = user;
@@ -24,7 +24,7 @@ export const Card: React.FC<CardProps> = ({ user }: CardProps) => {
         <div>{phoneNumber}</div>
       </CardHoc>
       <CardHoc>
-        <a>{email}</a>
+        <a href={email}>{email}</a>
       </CardHoc>
     </div>
   );

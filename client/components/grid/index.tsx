@@ -17,7 +17,7 @@ export interface GridProps {
 
 export const Grid: React.FC<GridProps> = ({ data }: GridProps) => {
   return (
-    <div className="card-grid grid-column">
+    <div className="card-grid">
       {data.map((eachUser) => {
         return <Card user={eachUser} key={`${eachUser.uuid}`} />;
       })}

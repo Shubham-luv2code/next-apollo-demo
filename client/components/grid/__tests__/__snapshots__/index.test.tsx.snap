@@ -1,0 +1,828 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid should match snapshot 1`] = `
+<div
+  className="card-grid"
+>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Stanton Goodwin
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        586 Madonna Plain
+West Christian, SC 90789, West Jaquelin, Ireland
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        549-842-0265
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Carol_Zboncak@Trycia.co.uk"
+      >
+        Carol_Zboncak@Trycia.co.uk
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Juana Douglas
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        7313 Hannah Key
+Wilhelminemouth, WA 41038-1578, Elbertfort, Malaysia
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        533-257-6954
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Swift.Lisette@gmail.com"
+      >
+        Swift.Lisette@gmail.com
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Marcus Ankunding
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        266 White Squares
+Lake Araside, NJ 19408, New Jacintheview, Nepal
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        197-409-9973
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Douglas_Elmore@gmail.com"
+      >
+        Douglas_Elmore@gmail.com
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Skye Balistreri
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        517 Tiara Islands Apt. 318
+South Karlie, AL 57802-2337, New Robbie, Ireland
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        183-762-1794
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Erika.Klein@gmail.com"
+      >
+        Erika.Klein@gmail.com
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Billy Stamm
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        136 Stracke Alley
+Lake Winston, SD 43995-8763, Imeldastad, Suriname
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        899-207-8259
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Jonas_Kovacek@Dino.tv"
+      >
+        Jonas_Kovacek@Dino.tv
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Dayne Douglas
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        291 Anderson Ports Apt. 845
+Lake Jerald, CO 80425, South Estebanfurt, Marshall Islands
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        237-292-0511
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Sven.Sauer@Makenzie.us"
+      >
+        Sven.Sauer@Makenzie.us
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Rosalinda Stehr
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        07 Rice Lakes
+West Dennis, CA 91308, Lake Allan, Poland
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        522-978-5728
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Neha.Mante@Olaf.biz"
+      >
+        Neha.Mante@Olaf.biz
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Owen Tillman
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        939 Jerde Route Suite 332
+East Melba, CT 99777, South Martina, Ukraine
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        573-484-5973
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Paucek_Jedidiah@hotmail.com"
+      >
+        Paucek_Jedidiah@hotmail.com
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Henry Reilly
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        975 Reinger Walks
+Orphaberg, LA 81545-5765, Kossberg, Svalbard & Jan Mayen Islands
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        587-853-2000
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Hannah.Zboncak@gmail.com"
+      >
+        Hannah.Zboncak@gmail.com
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Osborne Cummings
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        7748 Adah Loaf
+South Dellaland, MD 29907-1675, Charlottehaven, Malta
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        978-462-6869
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Hal.McCullough@Orn.info"
+      >
+        Hal.McCullough@Orn.info
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Callie Ritchie
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        12 Auer Cape
+Rosamondstad, KS 92288, New Sasha, Jersey
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        299-484-8138
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Gutmann.Mohammed@yahoo.com"
+      >
+        Gutmann.Mohammed@yahoo.com
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Iva Treutel
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        75 Kuphal Locks Suite 812
+West Sage, CT 02997-1259, East Rhianna, Italy
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        765-489-1641
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Daugherty.Gladyce@Howe.biz"
+      >
+        Daugherty.Gladyce@Howe.biz
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Amy Schinner
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        8481 Ezra Track Apt. 220
+East Brittany, CA 06194, Florinechester, Croatia
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        188-978-9135
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Shields_Carey@Malinda.biz"
+      >
+        Shields_Carey@Malinda.biz
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Joyce Blick
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        340 Bogan Overpass Apt. 014
+Blancabury, DE 22363, Nitzschemouth, Namibia
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        790-139-0749
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Kling_Hope@Weissnat.biz"
+      >
+        Kling_Hope@Weissnat.biz
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Fabian Fahey
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        6404 Ruthie Rue
+South Reinholdbury, NM 25629, North Rodrick, Armenia
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        648-494-8008
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Mozelle_Beatty@Teagan.biz"
+      >
+        Mozelle_Beatty@Teagan.biz
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Alison Bahringer
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        288 Langosh Glens Apt. 109
+Lake Keaganhaven, IN 99002-9258, East Ida, Eritrea
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        528-766-8557
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Pagac.Brandyn@hotmail.com"
+      >
+        Pagac.Brandyn@hotmail.com
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Weldon Schmeler
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        424 Ramona Gateway Apt. 089
+Cummerataburgh, OR 81870-4532, Remingtonside, Timor-Leste
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        720-628-4332
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Cloyd.Aufderhar@yahoo.com"
+      >
+        Cloyd.Aufderhar@yahoo.com
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Quincy Larson
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        985 Kautzer Roads
+Manuelaview, LA 75390-2593, Kaleyport, Saudi Arabia
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        092-732-6060
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Wunsch.Jennie@Narciso.io"
+      >
+        Wunsch.Jennie@Narciso.io
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Hope Rosenbaum
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        168 Fahey Walk Suite 182
+Kubbury, VA 88185, New Raven, Netherlands
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        318-435-4596
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="VonRueden_Lilyan@Magnus.us"
+      >
+        VonRueden_Lilyan@Magnus.us
+      </a>
+    </div>
+  </div>
+  <div
+    className="card grid-column"
+  >
+    <div
+      className="card-field"
+    >
+       
+      <div
+        className="user-name"
+      >
+        Burnice Shanahan
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        26 Ofelia Road Apt. 308
+New Fern, OK 88034, Ilenefurt, Indonesia
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <div>
+        151-777-6575
+      </div>
+    </div>
+    <div
+      className="card-field"
+    >
+       
+      <a
+        href="Madyson_Hills@Mittie.name"
+      >
+        Madyson_Hills@Mittie.name
+      </a>
+    </div>
+  </div>
+</div>
+`;

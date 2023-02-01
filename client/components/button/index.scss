@@ -15,4 +15,9 @@
     background-color: #0062cc;
     border-color: #005cbf;
   }
+  &:disabled {
+    background-color: gray;
+    border-color: black;
+    cursor: not-allowed;
+  }
 }

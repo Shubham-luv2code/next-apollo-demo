@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should match snapshot 1`] = `
+<div
+  className="card grid-column"
+>
+  <div
+    className="card-field"
+  >
+     
+    <div
+      className="user-name"
+    >
+      Stanton Goodwin
+    </div>
+  </div>
+  <div
+    className="card-field"
+  >
+     
+    <div>
+      586 Madonna Plain
+West Christian, SC 90789, West Jaquelin, Ireland
+    </div>
+  </div>
+  <div
+    className="card-field"
+  >
+     
+    <div>
+      549-842-0265
+    </div>
+  </div>
+  <div
+    className="card-field"
+  >
+     
+    <a
+      href="Carol_Zboncak@Trycia.co.uk"
+    >
+      Carol_Zboncak@Trycia.co.uk
+    </a>
+  </div>
+</div>
+`;
