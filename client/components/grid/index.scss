@@ -1,0 +1,29 @@
+.card-grid {
+  display: flex;
+  flex-flow: row wrap;
+
+  .grid-column {
+    margin: 0.5rem;
+    flex: 0 1 calc(100% - 1rem);
+  }
+  @include for-size(tablet) {
+    .grid-column {
+      flex: 0 1 calc(29% - 1rem);
+    }
+  }
+  @include for-size(tablet-lg) {
+    .grid-column {
+      flex: 0 1 calc(30% - 1rem);
+    }
+  }
+  @include for-size(desktop) {
+    .grid-column {
+      flex: 0 1 calc(31% - 1rem);
+    }
+  }
+  @include for-size(desktop-lg) {
+    .grid-column {
+      flex: 0 1 calc(13% - 1rem);
+    }
+  }
+}

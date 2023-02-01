@@ -1,10 +1,23 @@
-import Link from 'next/link'
-//import Name from '../components/Name'
+import React, { Suspense } from "react";
 
-const Page = () => (
-  <div>
-    Stable Build After modules v upgrade
-  </div>
-)
+const Grid = React.lazy(() => import("../components/grid")); // Lazy-loaded
+const Button = React.lazy(() => import("../components/button")); // Lazy-loaded
 
-export default Page
+import { useUserDetails } from "../hooks/useUserDetails";
+
+const Page = () => {
+  const { loadMore, loading, userDetails, hasMore } = useUserDetails();
+  console.log(loading, "loading");
+  return (
+    <React.Fragment>
+      <Suspense
+        fallback={loading ? <div>Please wait, data is being loaded</div> : null}
+      >
+        <Grid data={userDetails} />
+        <Button text="Load More" handleClick={loadMore} hasMore={hasMore} />
+      </Suspense>
+    </React.Fragment>
+  );
+};
+
+export default Page;
