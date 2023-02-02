@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "node server"
+    "start": "node index.js"
   },
   "dependencies": {
     "apollo-server-express": "^3.0.0-rc.1",
